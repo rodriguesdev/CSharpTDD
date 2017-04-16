@@ -53,6 +53,12 @@
     <Compile Include="CalculadoraTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Calculadora.Util\Calculadora.Util.csproj">
+      <Project>{f1714dd0-547b-433e-b9e9-bcec6f1f1544}</Project>
+      <Name>Calculadora.Util</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
       <ItemGroup>

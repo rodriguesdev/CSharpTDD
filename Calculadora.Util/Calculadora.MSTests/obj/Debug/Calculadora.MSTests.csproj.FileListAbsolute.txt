@@ -1,0 +1,8 @@
+C:\Users\leandro\Documents\GitHub\CSharpTDD\Calculadora.Util\Calculadora.MSTests\bin\Debug\Calculadora.MSTests.dll
+C:\Users\leandro\Documents\GitHub\CSharpTDD\Calculadora.Util\Calculadora.MSTests\bin\Debug\Calculadora.MSTests.pdb
+C:\Users\leandro\Documents\GitHub\CSharpTDD\Calculadora.Util\Calculadora.MSTests\bin\Debug\Calculadora.Util.dll
+C:\Users\leandro\Documents\GitHub\CSharpTDD\Calculadora.Util\Calculadora.MSTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\leandro\Documents\GitHub\CSharpTDD\Calculadora.Util\Calculadora.MSTests\bin\Debug\Calculadora.Util.pdb
+C:\Users\leandro\Documents\GitHub\CSharpTDD\Calculadora.Util\Calculadora.MSTests\obj\Debug\Calculadora.MSTests.csprojResolveAssemblyReference.cache
+C:\Users\leandro\Documents\GitHub\CSharpTDD\Calculadora.Util\Calculadora.MSTests\obj\Debug\Calculadora.MSTests.dll
+C:\Users\leandro\Documents\GitHub\CSharpTDD\Calculadora.Util\Calculadora.MSTests\obj\Debug\Calculadora.MSTests.pdb

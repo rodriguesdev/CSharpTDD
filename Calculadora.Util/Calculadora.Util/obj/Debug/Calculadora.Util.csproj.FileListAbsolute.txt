@@ -1,0 +1,5 @@
+C:\Users\leandro\Documents\GitHub\CSharpTDD\Calculadora.Util\Calculadora.Util\bin\Debug\Calculadora.Util.dll
+C:\Users\leandro\Documents\GitHub\CSharpTDD\Calculadora.Util\Calculadora.Util\bin\Debug\Calculadora.Util.pdb
+C:\Users\leandro\Documents\GitHub\CSharpTDD\Calculadora.Util\Calculadora.Util\obj\Debug\Calculadora.Util.csprojResolveAssemblyReference.cache
+C:\Users\leandro\Documents\GitHub\CSharpTDD\Calculadora.Util\Calculadora.Util\obj\Debug\Calculadora.Util.dll
+C:\Users\leandro\Documents\GitHub\CSharpTDD\Calculadora.Util\Calculadora.Util\obj\Debug\Calculadora.Util.pdb
