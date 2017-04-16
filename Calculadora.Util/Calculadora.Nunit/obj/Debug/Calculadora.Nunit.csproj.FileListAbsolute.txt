@@ -1,0 +1,9 @@
+C:\Users\leandro\Documents\GitHub\CSharpTDD\Calculadora.Util\Calculadora.Nunit\bin\Debug\Calculadora.Nunit.dll
+C:\Users\leandro\Documents\GitHub\CSharpTDD\Calculadora.Util\Calculadora.Nunit\bin\Debug\Calculadora.Nunit.pdb
+C:\Users\leandro\Documents\GitHub\CSharpTDD\Calculadora.Util\Calculadora.Nunit\bin\Debug\Calculadora.Util.dll
+C:\Users\leandro\Documents\GitHub\CSharpTDD\Calculadora.Util\Calculadora.Nunit\bin\Debug\nunit.framework.dll
+C:\Users\leandro\Documents\GitHub\CSharpTDD\Calculadora.Util\Calculadora.Nunit\bin\Debug\Calculadora.Util.pdb
+C:\Users\leandro\Documents\GitHub\CSharpTDD\Calculadora.Util\Calculadora.Nunit\bin\Debug\nunit.framework.xml
+C:\Users\leandro\Documents\GitHub\CSharpTDD\Calculadora.Util\Calculadora.Nunit\obj\Debug\Calculadora.Nunit.csprojResolveAssemblyReference.cache
+C:\Users\leandro\Documents\GitHub\CSharpTDD\Calculadora.Util\Calculadora.Nunit\obj\Debug\Calculadora.Nunit.dll
+C:\Users\leandro\Documents\GitHub\CSharpTDD\Calculadora.Util\Calculadora.Nunit\obj\Debug\Calculadora.Nunit.pdb

@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{D033D6D6
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora.MSTests", "Calculadora.MSTests\Calculadora.MSTests.csproj", "{77FE4DA8-685D-4326-A187-83443B15D1BD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora.Nunit", "Calculadora.Nunit\Calculadora.Nunit.csproj", "{4576875B-8B76-437B-B248-810F8E2A77C1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,11 +25,16 @@ Global
 		{77FE4DA8-685D-4326-A187-83443B15D1BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77FE4DA8-685D-4326-A187-83443B15D1BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77FE4DA8-685D-4326-A187-83443B15D1BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4576875B-8B76-437B-B248-810F8E2A77C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4576875B-8B76-437B-B248-810F8E2A77C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4576875B-8B76-437B-B248-810F8E2A77C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4576875B-8B76-437B-B248-810F8E2A77C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{77FE4DA8-685D-4326-A187-83443B15D1BD} = {D033D6D6-A817-4C06-9D10-41149F350DCB}
+		{4576875B-8B76-437B-B248-810F8E2A77C1} = {D033D6D6-A817-4C06-9D10-41149F350DCB}
 	EndGlobalSection
 EndGlobal
