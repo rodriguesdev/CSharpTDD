@@ -33,20 +33,30 @@ namespace Calculadora.Nunit
             Assert.AreEqual(0, _calc.Subtrair(2, 2));
         }
 
+        [Test]
+        [Ignore("Metodo Não Implementado")]
+        public void TestException()
+        {
+            testCalc.Calculadora calc = new testCalc.Calculadora(2);
+            calc.Somar(1, 1);
+        }
+
         [TestFixtureTearDown]
         public void TerDown()
         {
             _calc = null;
         }
 
-        //[Test]
-        //public void TestMultiplicar()
-        //{
-        //}
+        [Test]
+        [Ignore("Metodo Não Implementado")]
+        public void c()
+        {
+        }
 
-        //[Test]
-        //public void TestDividir()
-        //{
-        //}
+        [Test]
+        [Ignore("Metodo Não Implementado")]
+        public void TestDividir()
+        {
+        }
     }
 }
